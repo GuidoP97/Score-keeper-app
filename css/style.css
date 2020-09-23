@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+    color: white;
+}
+
+.content {
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 35%;
+    margin-top: 20%;
+}
+
+body {
+    background-image: url(https://image.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+}
+
+html {
+    height: 100%;
+}
+
+.green {
+    color: green;
+}
